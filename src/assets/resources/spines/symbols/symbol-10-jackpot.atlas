@@ -4,115 +4,94 @@ size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-A
+effect/1
   rotate: false
-  xy: 1160, 604
-  size: 26, 33
-  orig: 26, 33
+  xy: 1254, 1894
+  size: 69, 64
+  orig: 69, 64
   offset: 0, 0
   index: -1
-J
+effect/10
+  rotate: false
+  xy: 1666, 72
+  size: 119, 107
+  orig: 119, 107
+  offset: 0, 0
+  index: -1
+effect/11
+  rotate: false
+  xy: 1431, 1606
+  size: 115, 103
+  orig: 115, 103
+  offset: 0, 0
+  index: -1
+effect/13
   rotate: true
-  xy: 463, 981
-  size: 26, 36
-  orig: 26, 36
+  xy: 1652, 1357
+  size: 103, 106
+  orig: 103, 106
   offset: 0, 0
   index: -1
-K
-  rotate: false
-  xy: 163, 1205
-  size: 24, 32
-  orig: 24, 32
-  offset: 0, 0
-  index: -1
-O
-  rotate: false
-  xy: 509, 1173
-  size: 27, 34
-  orig: 27, 34
-  offset: 0, 0
-  index: -1
-P
+effect/14
   rotate: true
-  xy: 244, 145
-  size: 24, 33
-  orig: 24, 33
+  xy: 616, 1780
+  size: 64, 104
+  orig: 64, 104
   offset: 0, 0
   index: -1
-T
-  rotate: false
-  xy: 664, 931
-  size: 24, 33
-  orig: 24, 33
-  offset: 0, 0
-  index: -1
-c
-  rotate: false
-  xy: 106, 1278
-  size: 26, 34
-  orig: 26, 34
-  offset: 0, 0
-  index: -1
-flare2
-  rotate: false
-  xy: 1137, 102
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-gold1
+effect/2
   rotate: true
-  xy: 890, 531
-  size: 33, 34
-  orig: 33, 34
+  xy: 174, 1778
+  size: 88, 132
+  orig: 88, 132
   offset: 0, 0
   index: -1
-gold2
-  rotate: true
-  xy: 122, 993
-  size: 33, 34
-  orig: 33, 34
-  offset: 0, 0
-  index: -1
-leaf
+effect/3
   rotate: false
-  xy: 1636, 671
-  size: 62, 67
-  orig: 62, 67
+  xy: 1767, 1606
+  size: 73, 131
+  orig: 73, 131
   offset: 0, 0
   index: -1
-leaf2
-  rotate: true
-  xy: 195, 135
-  size: 61, 46
-  orig: 61, 46
-  offset: 0, 0
-  index: -1
-leaf3
-  rotate: true
-  xy: 307, 249
-  size: 43, 40
-  orig: 43, 40
-  offset: 0, 0
-  index: -1
-leaf4
+effect/5
   rotate: false
-  xy: 1043, 8
-  size: 54, 59
-  orig: 54, 59
+  xy: 316, 1641
+  size: 120, 130
+  orig: 120, 130
   offset: 0, 0
   index: -1
-object
-  rotate: true
-  xy: 906, 402
-  size: 132, 124
-  orig: 132, 124
-  offset: 0, 0
-  index: -1
-symbol-8-idle_0
+effect/7
   rotate: false
-  xy: 795, 735
-  size: 152, 129
-  orig: 152, 129
+  xy: 1817, 1162
+  size: 73, 99
+  orig: 73, 99
+  offset: 0, 0
+  index: -1
+effect/8
+  rotate: false
+  xy: 1807, 685
+  size: 109, 111
+  orig: 109, 111
+  offset: 0, 0
+  index: -1
+symbol
+  rotate: false
+  xy: 231, 1531
+  size: 152, 131
+  orig: 152, 131
+  offset: 0, 0
+  index: -1
+symbol-blur
+  rotate: false
+  xy: 1643, 1223
+  size: 142, 133
+  orig: 142, 133
+  offset: 0, 0
+  index: -1
+text - Copy
+  rotate: true
+  xy: 157, 1382
+  size: 153, 61
+  orig: 153, 61
   offset: 0, 0
   index: -1

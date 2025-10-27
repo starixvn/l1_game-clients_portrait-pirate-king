@@ -4,192 +4,136 @@ size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-bubble/bubble00
-  rotate: true
-  xy: 1431, 1418
-  size: 72, 73
-  orig: 72, 73
+border
+  rotate: false
+  xy: 370, 1855
+  size: 152, 152
+  orig: 152, 152
   offset: 0, 0
   index: -1
-bubble/bubble01
-  rotate: true
-  xy: 24, 1452
-  size: 72, 73
-  orig: 72, 73
+border-blur
+  rotate: false
+  xy: 1788, 666
+  size: 152, 152
+  orig: 152, 152
   offset: 0, 0
   index: -1
-bubble/bubble02
+effect/1
   rotate: true
-  xy: 181, 1437
-  size: 72, 73
-  orig: 72, 73
+  xy: 2, 3
+  size: 1907, 1887
+  orig: 1907, 1887
   offset: 0, 0
   index: -1
-bubble/bubble03
-  rotate: true
-  xy: 826, 1522
-  size: 72, 73
-  orig: 72, 73
+effect/10
+  rotate: false
+  xy: 154, 2
+  size: 1737, 1877
+  orig: 1737, 1877
   offset: 0, 0
   index: -1
-bubble/bubble04
-  rotate: true
-  xy: 562, 1437
-  size: 72, 73
-  orig: 72, 73
+effect/11
+  rotate: false
+  xy: 2, 47
+  size: 1891, 1846
+  orig: 1891, 1846
   offset: 0, 0
   index: -1
-bubble/bubble05
-  rotate: true
-  xy: 639, 1439
-  size: 72, 73
-  orig: 72, 73
+effect/12
+  rotate: false
+  xy: 2, 47
+  size: 1899, 1854
+  orig: 1899, 1854
   offset: 0, 0
   index: -1
-bubble/bubble06
-  rotate: true
-  xy: 257, 1437
-  size: 72, 73
-  orig: 72, 73
+effect/13
+  rotate: false
+  xy: 2, 47
+  size: 1908, 1934
+  orig: 1908, 1934
   offset: 0, 0
   index: -1
-bubble/bubble07
-  rotate: true
-  xy: 717, 1443
-  size: 72, 73
-  orig: 72, 73
+effect/14
+  rotate: false
+  xy: 2, 2
+  size: 1924, 1924
+  orig: 1924, 1924
   offset: 0, 0
   index: -1
-bubble/bubble08
-  rotate: true
-  xy: 800, 1443
-  size: 72, 73
-  orig: 72, 73
+effect/2
+  rotate: false
+  xy: 2, 6
+  size: 1935, 1929
+  orig: 1935, 1929
   offset: 0, 0
   index: -1
-bubble/bubble09
-  rotate: true
-  xy: 877, 1438
-  size: 72, 73
-  orig: 72, 73
+effect/3
+  rotate: false
+  xy: 2, 2
+  size: 1933, 1939
+  orig: 1933, 1939
   offset: 0, 0
   index: -1
-bubble/bubble10
-  rotate: true
-  xy: 957, 1438
-  size: 72, 73
-  orig: 72, 73
+effect/4
+  rotate: false
+  xy: 2, 172
+  size: 1933, 1771
+  orig: 1933, 1771
   offset: 0, 0
   index: -1
-bubble/bubble11
-  rotate: true
-  xy: 1045, 1439
-  size: 72, 73
-  orig: 72, 73
+effect/5
+  rotate: false
+  xy: 70, 159
+  size: 1868, 1784
+  orig: 1868, 1784
   offset: 0, 0
   index: -1
-bubble/bubble12
-  rotate: true
-  xy: 1122, 1442
-  size: 72, 73
-  orig: 72, 73
+effect/6
+  rotate: false
+  xy: 212, 193
+  size: 1723, 1741
+  orig: 1723, 1741
   offset: 0, 0
   index: -1
-bubble/bubble13
-  rotate: true
-  xy: 1363, 526
-  size: 72, 73
-  orig: 72, 73
+effect/7
+  rotate: false
+  xy: 2, 163
+  size: 1937, 1784
+  orig: 1937, 1784
   offset: 0, 0
   index: -1
-bubble/bubble14
-  rotate: true
-  xy: 1312, 1450
-  size: 72, 73
-  orig: 72, 73
+effect/8
+  rotate: false
+  xy: 156, 769
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-bubble/bubble15
-  rotate: true
-  xy: 1484, 176
-  size: 72, 73
-  orig: 72, 73
-  offset: 0, 0
-  index: -1
-bubble/bubble16
-  rotate: true
-  xy: 1462, 365
-  size: 72, 73
-  orig: 72, 73
-  offset: 0, 0
-  index: -1
-bubble/bubble17
-  rotate: true
-  xy: 1481, 702
-  size: 72, 73
-  orig: 72, 73
-  offset: 0, 0
-  index: -1
-bubble/bubble18
-  rotate: true
-  xy: 1484, 782
-  size: 72, 73
-  orig: 72, 73
-  offset: 0, 0
-  index: -1
-bubble/bubble19
-  rotate: true
-  xy: 1484, 864
-  size: 72, 73
-  orig: 72, 73
-  offset: 0, 0
-  index: -1
-bubble/bubble20
-  rotate: true
-  xy: 1482, 948
-  size: 72, 73
-  orig: 72, 73
-  offset: 0, 0
-  index: -1
-bubble/bubble21
-  rotate: true
-  xy: 1502, 3
-  size: 72, 73
-  orig: 72, 73
-  offset: 0, 0
-  index: -1
-bubble/bubble22
-  rotate: true
-  xy: 1500, 256
-  size: 72, 73
-  orig: 72, 73
-  offset: 0, 0
-  index: -1
-bubble/bubble23
-  rotate: true
-  xy: 1502, 597
-  size: 72, 73
-  orig: 72, 73
-  offset: 0, 0
-  index: -1
-bubble/bubble24
-  rotate: true
-  xy: 1502, 1029
-  size: 72, 73
-  orig: 72, 73
-  offset: 0, 0
-  index: -1
-bubble/bubble25
-  rotate: true
-  xy: 101, 1506
-  size: 72, 73
-  orig: 72, 73
+effect/9
+  rotate: false
+  xy: 185, 182
+  size: 1754, 1744
+  orig: 1754, 1744
   offset: 0, 0
   index: -1
 symbol
-  rotate: true
-  xy: 386, 884
-  size: 93, 107
-  orig: 93, 107
+  rotate: false
+  xy: 1065, 1161
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+symbol-blank
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+symbol-blur
+  rotate: false
+  xy: 915, 1135
+  size: 146, 146
+  orig: 146, 146
   offset: 0, 0
   index: -1
