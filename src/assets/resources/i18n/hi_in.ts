@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "कुल जीत",
         "Unexpected_gift_code_error_message": "अप्रत्याशित त्रुटि हुई. कृपया बाद में पुन: प्रयास करें.",
         "Close": "बंद करें"
+    },
+    "OnePiece": {
+        "game_icon_name": "Pirate King",
+        "game_name": "Pirate King"
     }
 };
 

@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "Total Menang ",
         "Unexpected_gift_code_error_message": "Terjadi kesalahan tak terduga. Silakan coba lagi nanti.",
         "Close": "Tutup"
+    },
+    "OnePiece": {
+        "game_icon_name": "Pirate King",
+        "game_name": "Pirate King"
     }
 };
 

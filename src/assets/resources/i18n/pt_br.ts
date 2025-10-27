@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "Ganho Total",
         "Unexpected_gift_code_error_message": "Ocorreu um erro inesperado. Por favor, tente novamente mais tarde.",
         "Close": "Fechar"
+    },
+    "OnePiece": {
+        "game_icon_name": "Rei Pirata",
+        "game_name": "Rei Pirata"
     }
 };
 

@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "Tổng Thắng",
         "Unexpected_gift_code_error_message": "Đã xảy ra lỗi. Vui lòng thử lại sau.",
         "Close": "Đóng"
+    },
+    "OnePiece": {
+        "game_icon_name": "VUA HẢI TẶC",
+        "game_name": "VUA HẢI TẶC"
     }
 };
 

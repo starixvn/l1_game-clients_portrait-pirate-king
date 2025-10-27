@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "Total Win",
         "Unexpected_gift_code_error_message": "Unexpected error occurred. Please try again later.",
         "Close": "Close"
+    },
+    "OnePiece": {
+        "game_icon_name": "Pirate King",
+        "game_name": "Pirate King"
     }
 };
 

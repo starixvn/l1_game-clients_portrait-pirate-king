@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "Total Win",
         "Unexpected_gift_code_error_message": "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
         "Close": "Kapat"
+    },
+    "OnePiece": {
+        "game_icon_name": "Korsan Kral",
+        "game_name": "Korsan Kral"
     }
 };
 

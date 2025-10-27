@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "Ganancia Total",
         "Unexpected_gift_code_error_message": "Se ha producido un error inesperado. Por favor, inténtelo de nuevo más tarde.",
         "Close": "Cerrar"
+    },
+    "OnePiece": {
+        "game_icon_name": "Pirate King",
+        "game_name": "Pirate King"
     }
 };
 
