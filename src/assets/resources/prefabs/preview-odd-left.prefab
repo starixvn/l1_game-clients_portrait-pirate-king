@@ -193,7 +193,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 288,
+      "width": 284,
       "height": 151
     },
     "_anchorPoint": {
@@ -266,8 +266,8 @@
     },
     "_alignFlags": 45,
     "_target": null,
-    "_left": 6,
-    "_right": 6,
+    "_left": 8,
+    "_right": 8,
     "_top": 2,
     "_bottom": 13,
     "_horizontalCenter": 0,
@@ -522,7 +522,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -82,
+      "x": -73.5,
       "y": 0,
       "z": 0
     },
@@ -535,8 +535,8 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 1,
-      "y": 1,
+      "x": 0.75,
+      "y": 0.75,
       "z": 1
     },
     "_mobility": 0,
@@ -759,7 +759,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -214,
+      "x": -185,
       "y": 0,
       "z": 0
     },
@@ -1679,7 +1679,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -364,
+      "x": -335,
       "y": 0,
       "z": 0
     },
@@ -4413,7 +4413,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 98.39997863769531,
+      "width": 149.699951171875,
       "height": 47.88
     },
     "_anchorPoint": {
@@ -4449,7 +4449,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "NỔ HŨ",
+    "_string": "JACKPOT",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 30,
@@ -4585,7 +4585,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 179.9199676513672,
+      "width": 231.21994018554688,
       "height": 30
     },
     "_anchorPoint": {
@@ -4768,7 +4768,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 364,
+      "width": 335,
       "height": 100
     },
     "_anchorPoint": {
@@ -4803,7 +4803,7 @@
     },
     "_startAxis": 0,
     "_paddingLeft": 0,
-    "_paddingRight": 0,
+    "_paddingRight": 12,
     "_paddingTop": 0,
     "_paddingBottom": 0,
     "_spacingX": 0,
