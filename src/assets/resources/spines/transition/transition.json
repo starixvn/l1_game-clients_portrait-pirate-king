@@ -1,13 +1,14 @@
 {
-"skeleton": { "hash": "qyy1GbsdzGMmcWh3QHVgGC4vUro", "spine": "3.8.99" },
+"skeleton": { "hash": "rN+NHFZgmGL8A3XS8aiYDyJb60k", "spine": "3.8.99" },
 "bones": [
 	{ "name": "root" },
-	{ "name": "vfx-plasma", "parent": "root", "scaleX": 5, "scaleY": 5 },
+	{ "name": "vfx-plasma", "parent": "root", "scaleX": 4, "scaleY": 9.3 },
 	{ "name": "light", "parent": "root", "y": 1.51 }
 ],
 "slots": [
 	{ "name": "HUD-2", "bone": "root" },
 	{ "name": "bg", "bone": "root" },
+	{ "name": "mask", "bone": "root", "attachment": "mask" },
 	{ "name": "plasma-fx0", "bone": "vfx-plasma", "blend": "additive" },
 	{ "name": "light", "bone": "light", "blend": "additive" }
 ],
@@ -15,6 +16,14 @@
 	{
 		"name": "default",
 		"attachments": {
+			"mask": {
+				"mask": {
+					"type": "clipping",
+					"end": "mask",
+					"vertexCount": 4,
+					"vertices": [ -393.16, 699.08, 392.99, 699, 393.02, -698.98, -393.03, -699.03 ]
+				}
+			},
 			"plasma-fx0": {
 				"glitch/03_00008": { "width": 280, "height": 154 },
 				"glitch/03_00009": { "width": 280, "height": 154 },
