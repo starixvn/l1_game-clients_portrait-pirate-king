@@ -4,311 +4,136 @@ size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-Layer 12
-  rotate: true
-  xy: 2, 2
-  size: 173, 289
-  orig: 173, 289
-  offset: 0, 0
-  index: -1
-base1
+border
   rotate: false
-  xy: 1643, 364
-  size: 51, 79
-  orig: 51, 79
+  xy: 216, 1867
+  size: 152, 152
+  orig: 152, 152
   offset: 0, 0
   index: -1
-base2
+border-blur
   rotate: false
-  xy: 1661, 6
-  size: 35, 76
-  orig: 35, 76
+  xy: 1783, 1298
+  size: 152, 152
+  orig: 152, 152
   offset: 0, 0
   index: -1
-close eyes
-  rotate: true
-  xy: 3, 152
-  size: 39, 13
-  orig: 39, 13
-  offset: 0, 0
-  index: -1
-effect light/light00
+effect/1
   rotate: false
-  xy: 8, 337
-  size: 94, 95
-  orig: 94, 95
+  xy: 1378, 882
+  size: 152, 149
+  orig: 152, 149
   offset: 0, 0
   index: -1
-effect light/light01
+effect/10
   rotate: false
-  xy: 957, 260
-  size: 94, 95
-  orig: 94, 95
+  xy: 156, 462
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-effect light/light02
+effect/11
   rotate: false
-  xy: 877, 649
-  size: 94, 95
-  orig: 94, 95
+  xy: 1078, 467
+  size: 152, 152
+  orig: 152, 152
   offset: 0, 0
   index: -1
-effect light/light03
+effect/12
   rotate: false
-  xy: 982, 533
-  size: 94, 95
-  orig: 94, 95
+  xy: 152, 1229
+  size: 152, 152
+  orig: 152, 152
   offset: 0, 0
   index: -1
-effect light/light04
+effect/13
   rotate: false
-  xy: 972, 640
-  size: 94, 95
-  orig: 94, 95
+  xy: 587, 1377
+  size: 152, 153
+  orig: 152, 153
   offset: 0, 0
   index: -1
-effect light/light05
+effect/14
   rotate: false
-  xy: 948, 744
-  size: 94, 95
-  orig: 94, 95
+  xy: 740, 242
+  size: 1185, 1516
+  orig: 1185, 1516
   offset: 0, 0
   index: -1
-effect light/light06
+effect/2
   rotate: false
-  xy: 65, 1182
-  size: 94, 95
-  orig: 94, 95
+  xy: 5, 885
+  size: 1635, 1065
+  orig: 1635, 1065
   offset: 0, 0
   index: -1
-effect light/light07
+effect/3
   rotate: false
-  xy: 1158, 905
-  size: 94, 95
-  orig: 94, 95
+  xy: 1070, 856
+  size: 152, 152
+  orig: 152, 152
   offset: 0, 0
   index: -1
-effect light/light08
+effect/4
   rotate: false
-  xy: 1129, 785
-  size: 94, 95
-  orig: 94, 95
+  xy: 156, 615
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-effect light/light09
+effect/5
   rotate: false
-  xy: 1153, 651
-  size: 94, 95
-  orig: 94, 95
+  xy: 3, 616
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-effect light/light10
+effect/6
   rotate: false
-  xy: 1177, 449
-  size: 94, 95
-  orig: 94, 95
+  xy: 616, 311
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-effect light/light11
+effect/7
   rotate: false
-  xy: 1146, 261
-  size: 94, 95
-  orig: 94, 95
+  xy: 616, 4
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-effect light/light12
+effect/8
   rotate: false
-  xy: 1179, 75
-  size: 94, 95
-  orig: 94, 95
+  xy: 463, 157
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-effect light/light13
-  rotate: true
-  xy: 656, 1184
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light14
-  rotate: true
-  xy: 796, 1180
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light15
-  rotate: true
-  xy: 961, 1182
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light16
-  rotate: true
-  xy: 1061, 1176
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light17
-  rotate: true
-  xy: 1176, 1165
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light18
-  rotate: true
-  xy: 1195, 170
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light19
-  rotate: true
-  xy: 1187, 555
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light20
-  rotate: true
-  xy: 1249, 7
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light21
+effect/9
   rotate: false
-  xy: 1021, 1044
-  size: 94, 95
-  orig: 94, 95
+  xy: 463, 4
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-effect light/light22
-  rotate: true
-  xy: 1205, 353
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light23
+symbol
   rotate: false
-  xy: 828, 1085
-  size: 94, 95
-  orig: 94, 95
+  xy: 1079, 1011
+  size: 146, 146
+  orig: 146, 146
   offset: 0, 0
   index: -1
-effect light/light24
-  rotate: true
-  xy: 1243, 261
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light25
-  rotate: true
-  xy: 1247, 637
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light26
-  rotate: true
-  xy: 1212, 732
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light27
-  rotate: true
-  xy: 288, 1160
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light28
-  rotate: true
-  xy: 1230, 839
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light29
-  rotate: true
-  xy: 1220, 985
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light30
-  rotate: true
-  xy: 1226, 1081
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light31
-  rotate: true
-  xy: 7, 1264
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light32
-  rotate: true
-  xy: 133, 1256
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light33
-  rotate: true
-  xy: 190, 1171
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-hair1
-  rotate: true
-  xy: 1122, 872
-  size: 37, 57
-  orig: 37, 57
-  offset: 0, 0
-  index: -1
-hair2
+symbol-blank
   rotate: false
-  xy: 277, 1512
-  size: 47, 41
-  orig: 47, 41
+  xy: 309, 155
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-symbol-background/ball
+symbol-blur
   rotate: false
-  xy: 871, 3
-  size: 59, 67
-  orig: 59, 67
-  offset: 0, 0
-  index: -1
-symbol-background/blur
-  rotate: false
-  xy: 103, 1664
-  size: 121, 49
-  orig: 121, 49
-  offset: 0, 0
-  index: -1
-symbol-background/symbol-4
-  rotate: false
-  xy: 9, 875
-  size: 137, 138
-  orig: 137, 138
-  offset: 0, 0
-  index: -1
-symbol-static
-  rotate: false
-  xy: 827, 131
-  size: 141, 154
-  orig: 141, 154
+  xy: 765, 1081
+  size: 146, 146
+  orig: 146, 146
   offset: 0, 0
   index: -1
